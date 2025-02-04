@@ -127,4 +127,6 @@ graph TD
 
 Система работы с пользователями потребует интеграции с внешними аутентикационными системами.
 
-Диаграмму с декомпозицией можно найти здесь: https://drive.google.com/file/d/1diMTrcJmOXui-OoW7vEJzWzYtQBFZbmh/view?usp=sharing
+Диаграмму с декомпозицией можно найти здесь: [arch_template_task2_v0.01.drawio](./arch_template_task2_v0.01.drawio)
+
+
